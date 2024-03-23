@@ -2558,5 +2558,8 @@ footer .copyright span:last-child::after {
 #go-top a:hover {
 	background: #000000;
 }
+.copyright
+{
+	background-color: #FFFFFF;
 
 /*# sourceMappingURL=main.css.map */
